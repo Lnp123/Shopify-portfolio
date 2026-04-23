@@ -32,14 +32,14 @@ function Intro() {
             <a href="https://www.canva.com/en_ph/" target="_blank" rel="noopener noreferrer">
             <img
                src="/assets/canva-app.jpg"
-               alt="canva Icon"
+               alt="canva icon"
                className="w-12 h-12 rounded-full mr-2 md:w-16 md:h-16"
             />
             </a>
-            <a href="https://www.adobe.com/ph_en/products/photoshop/landpa.html?sdid=GVTYXXRQ&mv=search&mv2=paidsearch&ef_id=CjwKCAjwhqfPBhBWEiwAZo196tUNY_JWMff2fd_BjeOatCpdrZqtgpNGcrOyYd1NKzYmgnLm3voxbhoCTtgQAvD_BwE:G:s&s_kwcid=AL!3085!3!697507944434!e!!g!!photoshop!703953000!39399096689&gad_source=1&gad_campaignid=703953000&gbraid=0AAAAADoVWmRcCTPqjWebV9qd_vIuscDg3&gclid=CjwKCAjwhqfPBhBWEiwAZo196tUNY_JWMff2fd_BjeOatCpdrZqtgpNGcrOyYd1NKzYmgnLm3voxbhoCTtgQAvD_BwE" target="_blank" rel="noopener noreferrer">
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
             <img
                src="/assets/js.png"
-               alt="photoshop Icon"
+               alt="javascript Icon"
                className="w-12 h-12 rounded-full mr-2 md:w-16 md:h-16"
             />
             </a>
@@ -74,7 +74,8 @@ function Intro() {
           
          </div>
          <p className="text-sm max-w-xl mt-6 font-bold">
-         Hello! My name is Robin Ibañez, a ecommerce professional focused on delivering efficient store management, accurate product handling, and continuous optimization to improve customer experience and sales performance.
+         Hello! My name is Robin Ibañez, a ecommerce professional focused on delivering efficient store management, 
+         accurate product handling, and continuous optimization to improve customer experience and sales performance.
             
             <div className="flex flex-col mt-6 md:mt-8 animate-fade-in">
                <p className="text-sm md:text-base mb-3 font-medium">E-commerce Websites I Managed</p>
