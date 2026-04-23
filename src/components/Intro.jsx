@@ -11,35 +11,35 @@ function Intro() {
             />
             <div className="flex flex-col">
                <h1 className="text-2xl md:text-4xl dark:text-white mb-1 md:mb-3 font-bold">ROBIN IBAÑEZ</h1>
-               <p className="text-sm md:text-base mb-3 font-medium">TECH STACKS</p>
+               <p className="text-sm md:text-base mb-3 font-medium">Tools & Technologies</p>
             </div>
          </div>
          <div className="flex flex-row">
-         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
+         <a href="https://www.shopify.com/ph/ppc/online-store?term=shopify&adid=566143386710&campaignid=15433369419&branded_enterprise=1&BOID=brand&utm_medium=cpc&utm_source=google&matchtype=e&network=g&gad_source=1&gad_campaignid=15433369419&gbraid=0AAAAAC3QZJqABOBmd8czLxvIVemVL7llI&gclid=CjwKCAjwhqfPBhBWEiwAZo196n4lgJR2-LrKoVQyb47c58OeZSH8rTIhBGdS4yCq7uldjcbXj875GhoCF3sQAvD_BwE" target="_blank" rel="noopener noreferrer">
             <img
-               src="/assets/html.png"
-               alt="HTML Icon"
+               src="/assets/shopify.png"
+               alt="shopify Icon"
                className="w-12 h-12 rounded-full mr-2 md:w-16 md:h-16"
             />
             </a>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+            <a href="https://wordpress.com/" target="_blank" rel="noopener noreferrer">
             <img
-               src="/assets/css.png"
-               alt="CSS Icon"
+               src="/assets/wordpress.png"
+               alt="wordpress Icon"
                className="w-12 h-12 rounded-full mr-2 md:w-16 md:h-16"
             />
             </a>
-            <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.canva.com/en_ph/" target="_blank" rel="noopener noreferrer">
             <img
-               src="/assets/tailwindcss.png"
-               alt="tailwind Icon"
+               src="/assets/canva-app.jpg"
+               alt="canva Icon"
                className="w-12 h-12 rounded-full mr-2 md:w-16 md:h-16"
             />
             </a>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.adobe.com/ph_en/products/photoshop/landpa.html?sdid=GVTYXXRQ&mv=search&mv2=paidsearch&ef_id=CjwKCAjwhqfPBhBWEiwAZo196tUNY_JWMff2fd_BjeOatCpdrZqtgpNGcrOyYd1NKzYmgnLm3voxbhoCTtgQAvD_BwE:G:s&s_kwcid=AL!3085!3!697507944434!e!!g!!photoshop!703953000!39399096689&gad_source=1&gad_campaignid=703953000&gbraid=0AAAAADoVWmRcCTPqjWebV9qd_vIuscDg3&gclid=CjwKCAjwhqfPBhBWEiwAZo196tUNY_JWMff2fd_BjeOatCpdrZqtgpNGcrOyYd1NKzYmgnLm3voxbhoCTtgQAvD_BwE" target="_blank" rel="noopener noreferrer">
             <img
                src="/assets/js.png"
-               alt="javascript Icon"
+               alt="photoshop Icon"
                className="w-12 h-12 rounded-full mr-2 md:w-16 md:h-16"
             />
             </a>
@@ -74,11 +74,10 @@ function Intro() {
           
          </div>
          <p className="text-sm max-w-xl mt-6 font-bold">
-         Hello! My name is Robin Ibañez, and I am thrilled to introduce myself as an entry level front-end developer. 
-         I have a deep passion for creating visually appealing and user-friendly web experiences that engage and delight users.
+         Hello! My name is Robin Ibañez, a ecommerce professional focused on delivering efficient store management, accurate product handling, and continuous optimization to improve customer experience and sales performance.
             
             <div className="flex flex-col mt-6 md:mt-8 animate-fade-in">
-               <p className="text-sm md:text-base mb-3 font-medium">PROJECTS</p>
+               <p className="text-sm md:text-base mb-3 font-medium">E-commerce Websites I Managed</p>
             </div>
 
          </p>
